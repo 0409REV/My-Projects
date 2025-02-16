@@ -1,5 +1,8 @@
  Sales Insights Dashboard – Power BI
+
+
 📌 Description:
+
 
 Built an interactive Power BI dashboard to analyze sales performance across regions and products.
 Extracted insights on top-performing products, revenue trends, and customer behavior to improve sales strategies.
@@ -9,8 +12,13 @@ Extracted insights on top-performing products, revenue trends, and customer beha
 Improved sales forecasting accuracy by 15% through trend analysis.
 Used DAX functions & Power Query to clean and transform data.
 ################
+
+
 HR Analytics Dashboard – Power BI
+
+
 📌 Description:
+
 
 Developed an HR analytics dashboard to track employee attendance, work-from-home trends, and leave patterns.
 Provided HR teams with data-driven insights to improve employee retention.
@@ -20,7 +28,11 @@ Provided HR teams with data-driven insights to improve employee retention.
 Reduced employee absenteeism by 10% by identifying trends.
 Automated data updates using Power Query for real-time analysis.
 ###################
+
+
 Personal Finance Dashboard – Excel & Power BI
+
+
 📌 Description:
 
 Created an interactive financial tracking tool to analyze income, expenses, and savings over time.
