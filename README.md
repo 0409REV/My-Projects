@@ -11,6 +11,15 @@ Extracted insights on top-performing products, revenue trends, and customer beha
 
 Improved sales forecasting accuracy by 15% through trend analysis.
 Used DAX functions & Power Query to clean and transform data.
+
+**Dashboard** 
+
+![Project -1](https://github.com/user-attachments/assets/8ebf1c7d-b191-4f03-b735-bee8120d3227)
+
+
+**Dashboard** 
+![Project -1 1png](https://github.com/user-attachments/assets/a7367714-d3cf-4bf8-8e43-559297406f94)
+
 ################
 
 
@@ -27,6 +36,12 @@ Provided HR teams with data-driven insights to improve employee retention.
 
 Reduced employee absenteeism by 10% by identifying trends.
 Automated data updates using Power Query for real-time analysis.
+
+**Dashboard**
+
+
+![Project -2](https://github.com/user-attachments/assets/dbb3abb7-138a-4f02-8d21-4eff7bcc2bb1)
+
 ###################
 
 
@@ -39,6 +54,10 @@ Created an interactive financial tracking tool to analyze income, expenses, and 
 Identified spending patterns and suggested budgeting strategies.
 📊 Tech Stack: Excel, Power BI, Python (Pandas for data processing)
 🚀 Key Achievements:
+**Dashboard**
+
+
+![Project -3](https://github.com/user-attachments/assets/87c49340-9989-4308-8b11-b25ea633ba04)
 
 Optimized personal budgeting by 20% using data-driven decisions.
 Used Power Query and Pivot Tables to automate monthly reports.
